@@ -6,9 +6,17 @@
 #history {
     margin-top: 16px;
 }
-  
+
+body {
+    font-family: 'Happy Monkey', cursive;
+    background-color: #d6cbd3;
+}
+
 .banner {
-    color: #FFD23F;
     font-size: 90px;
-    font-family: sans-serif;
+    color: #6b5b95;
+}
+
+#number-submit {
+    color: #80ced6;
 }
